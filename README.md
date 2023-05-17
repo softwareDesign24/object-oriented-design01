@@ -1,4 +1,5 @@
 # Πρότυπο Σχεδίασης: Template Mehod
+## Ένα παράδειγμα
 
 ## Under Construnction!
 ...

@@ -3,13 +3,10 @@
 - Ορίζει τη βασική δομή ενός αλγορίθμου, επιτρέποντας στις υποκλάσεις να ορίσουν κάποια συγκεκριμένα τμήματά του.
 - Συχνό παράδειγμα είναι η εφαρμογή του σε περιπτώσεις αλγόριθμων ταξινόμησης.
 
-## Ένα παράδειγμα
+## Παραδείγματα
 
-## Under Construnction!
-...
-...
-...
-
+- [ ] Μέθοδος [ταξινόμησης](./example_sort)
+- [ ] Ώρα για [τάισμα](./example_mitato) των ζώων στο μιτάτο
 
 ### Ενδεικτική βιβλιογραφία για περαιτέρω μελέτη:
 - [ ] [Design patterns: elements of reusable object-oriented software](http://faculty.chas.uni.edu/~wallingf/teaching/062/sessions/support/pattern-examples.pdf)

@@ -6,7 +6,7 @@
 ## Παραδείγματα
 
 - [ ] Μέθοδος [ταξινόμησης](./example_sort)
-- [ ] Ώρα για [τάισμα](./example_mitato) των ζώων στο μιτάτο :sheep: :pig: :goat:
+- [ ] Ώρα για [τάισμα](./example_mitato) των ζώων στο μιτάτο :sheep: 🐖 :goat:
 
 ### Ενδεικτικές πηγές για περαιτέρω μελέτη:
 - [ ] [Design patterns: elements of reusable object-oriented software](http://faculty.chas.uni.edu/~wallingf/teaching/062/sessions/support/pattern-examples.pdf)

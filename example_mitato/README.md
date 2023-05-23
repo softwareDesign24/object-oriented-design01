@@ -31,4 +31,4 @@
 ![Διάγραμμα κλάσεων (εκτεταμένο)](../img/mitatoTemplateMethod_extended.png)
 
 ## Ενδεικτικός κώδικας
-Κάντε κλικ [εδώ](../source_code) (C++).
+Κάντε κλικ [εδώ](./source_code) (C++).
